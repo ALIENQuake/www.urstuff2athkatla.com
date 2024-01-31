@@ -1,52 +1,52 @@
 // WeiDU prompts
 @-1000 = ~Mod %TP2_FILE_NAME% posiada~
-@-1001 = ~opcjonalnych komponentow.
+@-1001 = ~opcjonalnych komponentów.
 ~
-@-1002 = ~Co zrobic z komponentami, ktore NIE ZOSTALY jeszcze zainstalowane?
-[I] zainstaluj wszystkie, [S] pomin wszystkie, [A] zapytaj o kazdy z osobna
+@-1002 = ~Co zrobiæ z komponentami, które NIE ZOSTA£Y jeszcze zainstalowane?
+[I] zainstaluj wszystkie, [S] pomiñ wszystkie, [A] zapytaj o ka¿dy z osobna
 ~
-@-1003 = ~Co zrobic z komponentami, ktore ZOSTALY juz zainstalowane?
-[R] ponowna instalacja, [U] odinstaluj, [S] pomin, [A] zapytaj o kazdy z osobna
+@-1003 = ~Co zrobiæ z komponentami, które ZOSTA£Y ju¿ zainstalowane?
+[R] ponowna instalacja, [U] odinstaluj, [S] pomiñ, [A] zapytaj o ka¿dy z osobna
 ~
 
-@-1004 = ~PROSZE, wyslij plik~
+@-1004 = ~PROSZÊ, wyœlij plik~
 @-1005 = ~do~
 
-@-1006 = ~Zainstalowac komponent [~
+@-1006 = ~Zainstalowaæ komponent [~
 @-1007 = ~]?
-[R] ponowna instalacja, [N] pozostaw bez zmian, [U] odinstaluj, [Q] zakoncz
+[R] ponowna instalacja, [N] pozostaw bez zmian, [U] odinstaluj, [Q] zakoñcz
 ~
 @-1008 = ~]?
-[I] tak, [N] nie, [Q] zakoncz
+[I] tak, [N] nie, [Q] zakoñcz
 ~
 
-@-1009 = ~Wprowadz fragment nazwy modulu: ~
+@-1009 = ~WprowadŸ fragment nazwy modu³u: ~
 
 @-1010 = ~Re-instalacja [~
 @-1011 = ~] komponentu~
-@-1012 = ~Re-instalacja z uzyciem jezyka~
+@-1012 = ~Re-instalacja z u¿yciem jêzyka~
 
 @-1013 = ~Usuwanie zainstalowanego komponentu [~
 @-1014 = ~] ...~
-@-1015 = ~POMYSLNIE USUNIETO~
+@-1015 = ~POMYŒLNIE USUNIÊTO~
 
 @-1016 = ~Instalacja~
-@-1017 = ~BLAD podczas instalacji [~
-@-1018 = ~], powrot do poprzedniego stanu~
-@-1019 = ~INSTALACJA ZAKONCZONA POMYSLNIE ~
-@-1020 = ~Pominieto~
+@-1017 = ~B£¥D podczas instalacji [~
+@-1018 = ~], powrót do poprzedniego stanu~
+@-1019 = ~INSTALACJA ZAKOÑCZONA POMYŒLNIE~
+@-1020 = ~Pominiêto~
 @-1021 = ~Usuwanie [~
 @-1022 = ~] (komponent #~
 @-1023 = ~)~
-@-1024 = ~POMYSLNIE USUNIETO [~
+@-1024 = ~POMYŒLNIE USUNIÊTO [~
 
 @-1025 = ~]?
-[R] ponowna instalacja, [N] pozostaw bez zmian, [U] odinstaluj, [Q] zakoncz, lub wybierz:~
+[R] ponowna instalacja, [N] pozostaw bez zmian, [U] odinstaluj, [Q] zakoñcz, lub wybierz:~
 @-1026 = ~]?
-[N] nie, [Q] zakoncz, lub wybierz:~
+[N] nie, [Q] zakoñcz, lub wybierz:~
 
 @-1027 = ~ (obecnie zainstalowane)~
-@-1028 = ~Czy wyswietlic komponenty z grupy [~
+@-1028 = ~Czy wyœwietliæ komponenty z grupy [~
 @-1029 = ~]?
 [Y] tak, [N] nie
 ~
@@ -54,40 +54,38 @@
 @-1030 = ~]?
 Wybierz jedno:~
 @-1031 = ~]?
-[R] ponowna instalacja, [N] pozostaw bez zmian, [Q] zakoncz, lub wybierz:~
-@-1032 = ~NIE ZAINSTALOWANO Z POWODU BLEDOW~
-@-1033 = ~INSTALACJA ZAKONCZONA POMIMO BLEDOW~
-@-1034 = ~Czy wyswietlic plik ReadMe? [Y] tak, [N] nie~
-@-1035 = ~Uzywany jezyk~
+[R] ponowna instalacja, [N] pozostaw bez zmian, [Q] zakoñcz, lub wybierz:~
+@-1032 = ~NIE ZAINSTALOWANO Z POWODU B£ÊDÓW~
+@-1033 = ~INSTALACJA ZAKOÑCZONA POMIMO B£ÊDÓW~
+@-1034 = ~Czy wyœwietliæ plik ReadMe? [Y] tak, [N] nie~
+@-1035 = ~U¿ywany jêzyk~
 
-@-1036 = ~Pominieto GRUPE [~
-@-1037 = ~] gdyz nie spelnia wymagan.~
+@-1036 = ~Pominiêto GRUPÊ [~
+@-1037 = ~] gdy¿ nie spe³nia wymagañ~
 
-@-1038 = ~[A] zapytaj o kazdy z osobna, [S] pomin, lub wybierz ustawienia:~
-@-1039 = ~[A] zapytaj o kazdy z osobna, [R] ponowna instalacja, [U] odinstaluj, [S] pomin, lub wybierz ustawienia:~
+@-1038 = ~[A] zapytaj o ka¿dy z osobna, [S] pomiñ, lub wybierz ustawienia:~
+@-1039 = ~[A] zapytaj o ka¿dy z osobna, [R] ponowna instalacja, [U] odinstaluj, [S] pomiñ, lub wybierz ustawienia:~
 
-@-1040 = ~
-Prosze wybrac podstawowy jezyk, ktory uzywasz w grze.
-Ewentualna pozniejsza zmiana jezyka gry wiazac sie bedzie z koniecznoscia edycji pliku weidu.conf i ponownej instalacji modow.
-~
+@-1040 = ~Proszê wybraæ podstawowy jêzyk, który u¿ywasz w grze.
+Ewentualna póŸniejsza zmiana jêzyka gry bêdzie wi¹za³a siê z koniecznoœci¹ edycji pliku weidu.conf i ponownej instalacji modów~
 @-1041 = ~czeski~
 @-1042 = ~niemiecki~
 @-1043 = ~angielski~
-@-1044 = ~hiszpanski~
-@-1045 = ~fransuski~
-@-1046 = ~wloski~
+@-1044 = ~hiszpañski~
+@-1045 = ~francuski~
+@-1046 = ~w³oski~
 @-1047 = ~polski~
 @-1048 = ~portugalski~
 @-1049 = ~turecki~
-@-1050 = ~japonski~
-@-1051 = ~koreanski~
-@-1052 = ~chinski uproszczony~
+@-1050 = ~japoñski~
+@-1051 = ~koreañski~
+@-1052 = ~chiñski uproszczony~
 
 @-1060 = ~
-Instalator WeiDU nie potrafi rozpoznac jakiego jezyka uzyto podczas instalacji tego modu.
+Instalator WeiDU nie potrafi rozpoznaæ, jakiego jêzyka u¿yto podczas instalacji tego modu³u.
 
-Prosze wybrac odpowiedni jezyk. Wybor nie zostanie zapisany w pliku weidu.conf.
+Proszê wybraæ odpowiedni jêzyk. Wybór nie zostanie zapisany w pliku weidu.conf.
 ~
 @-1061 = ~
-Uzywam~
+U¿ywam~
 @-1062 = ~ oraz ~
